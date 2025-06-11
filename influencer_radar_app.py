@@ -21,7 +21,7 @@ with st.sidebar:
     only_sponsored = st.checkbox("Μόνο με Sponsored Posts")
     email_required = st.checkbox("Να έχουν email")
 
-API_KEY = 'AIzaSyBo4MHZBMk2KpFfgiITxw_OT79dO_VL7SA'
+API_KEY = 'AIzaSyA6XiRfAWqtC_EKFXPGRJ_6EUs4QtnaV4M'
 CX_ID = "63244caa4da064354"
 
 def google_search(query, api_key, cx_id):
